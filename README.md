@@ -2,10 +2,6 @@
 
 I'm based in Shanghai and work on high-performance AI inference. I'm also interested in fintech and autonomous driving.
 
-#### Building
-
-- **Fused MoE kernels for Blackwell GPUs** — mixed-precision LLM inference on SM120, with [CUDA/C++](https://github.com/Tencent/hpc-ops/pull/101) and [CuTe DSL](https://github.com/Tencent/hpc-ops/pull/100) implementations.
-
 #### Contributing to
 
 - [**hpc-ops**](https://github.com/Tencent/hpc-ops) — fused MoE operators for SM120, including MXFP4 × MXFP8 and blockwise FP8 paths ([#100](https://github.com/Tencent/hpc-ops/pull/100), [#101](https://github.com/Tencent/hpc-ops/pull/101)).
