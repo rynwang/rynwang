@@ -1,21 +1,13 @@
-# Hi, I'm Ryn Wang 👋
+### Hey, I'm Ryn
 
-I'm based in Shanghai and interested in **large language models, financial technology, and autonomous driving**.
+I'm based in Shanghai and work on high-performance AI inference. I'm also interested in fintech and autonomous driving.
 
-我在上海，关注**大语言模型、金融科技与自动驾驶**。
+#### Building
 
-## What I'm exploring · 关注方向
+- **Fused MoE kernels for Blackwell GPUs** — mixed-precision LLM inference on SM120, with [CUDA/C++](https://github.com/Tencent/hpc-ops/pull/101) and [CuTe DSL](https://github.com/Tencent/hpc-ops/pull/100) implementations.
 
-- **LLM inference and serving** · 大模型推理与服务
-- **AI systems performance** · AI 系统性能优化
-- **Fintech and quantitative systems** · 金融科技与量化系统
-- **Autonomous driving** · 自动驾驶
+#### Contributing to
 
-## Codebases I'm following · 关注的开源项目
-
-- [vLLM](https://github.com/rynwang/vllm) — my fork of the LLM inference and serving engine · 大模型推理与服务框架的个人 fork
-- [hpc-ops](https://github.com/rynwang/hpc-ops) — my fork of the high-performance LLM inference operator library · 高性能大模型推理算子库的个人 fork
-
-## Connect · 联系
-
-- [GitHub](https://github.com/rynwang)
+- [**hpc-ops**](https://github.com/Tencent/hpc-ops) — fused MoE operators for SM120, including MXFP4 × MXFP8 and blockwise FP8 paths ([#100](https://github.com/Tencent/hpc-ops/pull/100), [#101](https://github.com/Tencent/hpc-ops/pull/101)).
+- [**OpenStereo**](https://github.com/XiandaGuo/OpenStereo) — TensorRT CUDA Graph execution and model deployment improvements ([#214](https://github.com/XiandaGuo/OpenStereo/pull/214), [#122](https://github.com/XiandaGuo/OpenStereo/pull/122)).
+- [**CleanYourTV**](https://github.com/Gathin23/cleanyourtv) — documentation for a verified Android TV launcher handover on a Hisense device ([#1399](https://github.com/Gathin23/cleanyourtv/pull/1399)).
