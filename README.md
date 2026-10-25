@@ -4,6 +4,6 @@ I'm based in Shanghai and work on high-performance AI inference. I'm also intere
 
 #### Contributing to
 
-- [**hpc-ops**](https://github.com/Tencent/hpc-ops) — fused MoE operators for SM120, including MXFP4 × MXFP8 and blockwise FP8 paths ([#100](https://github.com/Tencent/hpc-ops/pull/100), [#101](https://github.com/Tencent/hpc-ops/pull/101)).
-- [**OpenStereo**](https://github.com/XiandaGuo/OpenStereo) — TensorRT CUDA Graph execution and model deployment improvements ([#214](https://github.com/XiandaGuo/OpenStereo/pull/214), [#122](https://github.com/XiandaGuo/OpenStereo/pull/122)).
-- [**CleanYourTV**](https://github.com/Gathin23/cleanyourtv) — documentation for a verified Android TV launcher handover on a Hisense device ([#1399](https://github.com/Gathin23/cleanyourtv/pull/1399)).
+- **[hpc-ops](https://github.com/Tencent/hpc-ops)** [![GitHub stars](https://img.shields.io/github/stars/Tencent/hpc-ops?style=flat&color=gold)](https://github.com/Tencent/hpc-ops) - Proposed SM120 fused MoE operators for mixed-precision LLM inference.
+- **[OpenStereo](https://github.com/XiandaGuo/OpenStereo)** [![GitHub stars](https://img.shields.io/github/stars/XiandaGuo/OpenStereo?style=flat&color=gold)](https://github.com/XiandaGuo/OpenStereo) - TensorRT CUDA Graph execution and model deployment improvements.
+- **[CleanYourTV](https://github.com/Gathin23/cleanyourtv)** [![GitHub stars](https://img.shields.io/github/stars/Gathin23/cleanyourtv?style=flat&color=gold)](https://github.com/Gathin23/cleanyourtv) - Documentation for an Android TV launcher handover on a Hisense device.
