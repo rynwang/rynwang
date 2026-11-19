@@ -4,7 +4,6 @@ I'm based in Shanghai and work on high-performance AI inference. I'm also intere
 
 #### Contributing to
 
-- **[hpc-ops](https://github.com/Tencent/hpc-ops)** [![GitHub stars](https://img.shields.io/github/stars/Tencent/hpc-ops?style=flat&color=gold)](https://github.com/Tencent/hpc-ops) - Proposed SM120 fused MoE operators for mixed-precision LLM inference.
 - **[OpenStereo](https://github.com/XiandaGuo/OpenStereo)** [![GitHub stars](https://img.shields.io/github/stars/XiandaGuo/OpenStereo?style=flat&color=gold&label=stars)](https://github.com/XiandaGuo/OpenStereo) - Built the TensorRT deployment pipeline for stereo matching, added fused CUDA preprocessing, and integrated CUDA Graphs to speed up LightStereo-S inference by ~25–30% on tested workloads.
 - **[vLLM-Omni](https://github.com/vllm-project/vllm-omni)** [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm-omni?style=flat&color=gold)](https://github.com/vllm-project/vllm-omni) - Made CUDA Graphs the default for Qwen2.5-Omni's talker, delivering a measured 2.56× end-to-end speedup on one RTX 4080 SUPER with byte-identical output.
 - **[llama.cpp](https://github.com/ggml-org/llama.cpp)** [![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=flat&color=gold&label=stars)](https://github.com/ggml-org/llama.cpp) - Tuned Pascal DP4A MMQ tiles across 11 quantization formats, improving GTX 1080 Ti prefill throughput by 8–18% at pp512 in benchmarks.
